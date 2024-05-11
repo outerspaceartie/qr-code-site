@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Final Solution](.images/desktopScreenshot.png)
+![Final Solution](images/desktopScreenshot.png)
 
 ### Links
 
@@ -60,5 +60,3 @@ I want to continue using the :root pseudo-class element as well
 
 - Github - [@outerspaceartie](https://github.com/outerspaceartie)
 - Frontend Mentor - [@outerspaceartie](https://www.frontendmentor.io/profile/outerspaceartie)
-
-
