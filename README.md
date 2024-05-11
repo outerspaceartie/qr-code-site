@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-card-using-flexbox-7ilamNeDvG)
+- Live Site URL: [Live Page on GitHub Pages](https://outerspaceartie.github.io/qr-code-site/)
 
 ## My process
 
@@ -49,7 +49,7 @@ I learned how to use the :root pseudo-class element to make my code neater
 
 ### Continued development
 
-I want to continue using the :root pseudo-class element as well
+I want to continue using the :root pseudo-class element as well as developing my overall frontend skills.
 
 ### Useful resources
 
